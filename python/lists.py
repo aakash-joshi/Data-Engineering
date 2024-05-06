@@ -97,7 +97,7 @@ new_list = list(mylist4) # using list method
 new_list = mylist4[:]  # using slicing
 """ print(new_list) """
 
-# square the elements of a list
+# square the elements of a list..
 list1 = [1, 2, 3, 4, 5]
 list2 = [i*i for i in list1]
 """ print(list1) """
